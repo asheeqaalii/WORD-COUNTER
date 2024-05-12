@@ -1,9 +1,10 @@
 {
-  "name": "word-counter_by_ashi",
-  "version": "1.0.0",
+  "name": "word-counter_code_by_ashi",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": "counter.js",
   "publishConfig": {
     "access": "public"
   },
